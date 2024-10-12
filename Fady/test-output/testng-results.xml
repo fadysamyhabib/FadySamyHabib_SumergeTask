@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-12T14:45:21 EEST" name="Default suite" finished-at="2024-10-12T14:45:24 EEST" duration-ms="3220">
+    <groups>
+    </groups>
+    <test started-at="2024-10-12T14:45:21 EEST" name="Default test" finished-at="2024-10-12T14:45:24 EEST" duration-ms="3220">
+      <class name="Package.Exercise">
+        <test-method is-config="true" signature="openWebsite()[pri:0, instance:Package.Exercise@70dd7e15]" started-at="2024-10-12T14:45:21 EEST" name="openWebsite" finished-at="2024-10-12T14:45:22 EEST" duration-ms="823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWebsite -->
+        <test-method signature="checkVisibility()[pri:0, instance:Package.Exercise@70dd7e15]" started-at="2024-10-12T14:45:22 EEST" name="checkVisibility" finished-at="2024-10-12T14:45:22 EEST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkVisibility -->
+        <test-method signature="validCred()[pri:1, instance:Package.Exercise@70dd7e15]" started-at="2024-10-12T14:45:22 EEST" name="validCred" finished-at="2024-10-12T14:45:23 EEST" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validCred -->
+        <test-method signature="invalidCred()[pri:2, instance:Package.Exercise@70dd7e15]" started-at="2024-10-12T14:45:23 EEST" name="invalidCred" finished-at="2024-10-12T14:45:23 EEST" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidCred -->
+        <test-method signature="emptyUser()[pri:3, instance:Package.Exercise@70dd7e15]" started-at="2024-10-12T14:45:23 EEST" name="emptyUser" finished-at="2024-10-12T14:45:24 EEST" duration-ms="419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyUser -->
+        <test-method signature="emptyPass()[pri:4, instance:Package.Exercise@70dd7e15]" started-at="2024-10-12T14:45:24 EEST" name="emptyPass" finished-at="2024-10-12T14:45:24 EEST" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyPass -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Package.Exercise@70dd7e15]" started-at="2024-10-12T14:45:24 EEST" name="teardown" finished-at="2024-10-12T14:45:24 EEST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Package.Exercise -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
